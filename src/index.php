@@ -42,7 +42,7 @@ function shortNumber($num)
 $message = incrementFile("views.txt");
 
 $params = [
-    "label" => "Page Views",
+    "label" => "Page Views 2.0",
     "logo" => "github",
     "message" => shortNumber($message),
     "color" => "informational",
